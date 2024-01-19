@@ -7,3 +7,5 @@ The target will match your roll if enabled. You can roll constantly, not roll at
 ## Installation
 
 Build with Visual Studio. It should automatically copy the .dll file to C:\Users\USERNAME\AppData\Roaming\bakkesmod\bakkesmod/plugins\ folder and then be ready to use.
+
+Or download the .dll from the releases and place it there yourself.
